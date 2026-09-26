@@ -7,8 +7,8 @@
 
 ### Noisy Image & 3X3 Average Filter 
 
-![Noisy](./noisyimg.jpg). ![3×3 Average Filter](./noisyblur_3x3.jpg)
+![Noisy](./noisy.jpg). ![3×3 Average Filter](./noisy_3x3.jpg)
 
 ### 5×5 Average Filter & 7×7 Average Filter
 
-![5×5 Average Filter](./noisyblur_5x5.jpg) ![7×7 Average Filter](./noisyblur_7x7.jpg)
+![5×5 Average Filter](./noisy_5x5.jpg) ![7×7 Average Filter](./noisy_7x7.jpg)
